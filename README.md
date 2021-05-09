@@ -12,12 +12,19 @@ With the help of Puppeteer and NodeJS, I have written an automated script which 
 4. Using nodemailer , excel file and screenshot of map and site is mailed to the uers's email address.
 
 Steps to run the file on your system : 
+
 Step 1: clone the repo
+
 Step 2: delete node modules and nodemailer 
+
 Step 3: npm i nodejs
+
 Step 4: npm i puppeteer 
+
 Step 5: npm i cheerio 
+
 Step 6: npm i nodemailer
+
 Step 7: npm i xlsx
 
 Ready to go !!
